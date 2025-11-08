@@ -1,15 +1,18 @@
-# Spamurai An Email Spam Detection with Machine Learning
+<div align="center">
 
-![MasterHead](https://www.easyspace.com/blog/wp-content/uploads/2019/03/spam-1.png)
+# Spamurai An Email Spam Detection with Machine Learning 📨🤖
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHJ3MmptOTd2cm8zeHdzb2RiYXd1YnRiMHdpdjNxOTR3dmJ6YWtnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4YNuhMN4B3x49fB8da/giphy.gif" width="600"/>
+
+</div>
 
 
-Click on the following link to checkout the colab file.
+
+Click on the following link to checkout the colab file.  
 - [Colab](https://colab.research.google.com/drive/1BDkp0yPkOpbnzzLdABHOOJwTGGmCaqm4?usp=sharing)
 
 
----
-
-## Problem Statement
+## 🔹 Problem Statement
 
 Email spam, or junk mail, remains a persistent issue, flooding inboxes with unsolicited and often malicious content. These emails may contain cryptic messages, scams, or, most dangerously, phishing attempts. Our Task, is to create an effective email spam detection system using Python and machine learning.
 
@@ -35,9 +38,8 @@ Email spam, or junk mail, remains a persistent issue, flooding inboxes with unso
 
 This project encapsulates the power of machine learning in addressing real-world challenges and promises a future where spam emails will no longer plague our inboxes.
 
----
 
-## Project Summary
+## 🔹 Project Summary
 
 In today's digital age, the challenge of combating spam emails is more pressing than ever. Spam emails, or junk mail, inundate our inboxes with unsolicited and often malicious content, ranging from cryptic messages to scams and phishing attempts.
 
@@ -59,29 +61,26 @@ In today's digital age, the challenge of combating spam emails is more pressing 
 
 The completion of this project not only equipped us with practical data science skills but also contributed to the ongoing battle against email spam. The project's success was a testament to the power of machine learning in addressing real-world challenges.
 
----
 
-## Conclusion
+## 🔹 Conclusion
 
 In the world of email communication, the battle against spam messages is an ongoing challenge. Our journey in this project was to develop a robust email spam detector using Python and machine learning techniques. We wanted to equip users with a tool that can distinguish between legitimate emails (ham) and unsolicited, often harmful, spam emails.
 
 **Key Insights:**
 
-- Our dataset revealed an interesting distribution, with approximately 13.41% of messages being categorized as spam and the remaining 86.59% as ham. This distribution served as a crucial starting point for our analysis.
+- Our dataset revealed an interesting distribution, with approximately 13.41 percent of messages being categorized as spam and the remaining 86.59 percent as ham. This distribution served as a crucial starting point for our analysis.
 
 - During the EDA process, we identified common keywords frequently found in spam messages, such as 'free,' 'call,' 'text,' 'txt,' and 'now.' These words often trigger spam filters and were important features for our machine learning model.
 
-- Our journey through machine learning brought us to a standout performer - the Multinomial Naive Bayes model. This model exhibited exceptional accuracy, achieving an impressive score of 98.49% on the recall test set. This outcome signifies the model's exceptional ability to accurately identify and filter out spam emails, thereby contributing to enhanced email security and a superior user experience.
+- Our journey through machine learning brought us to a standout performer - the Multinomial Naive Bayes model. This model exhibited exceptional accuracy, achieving an impressive score of 98.49 percent on the recall test set. This outcome signifies the model's exceptional ability to accurately identify and filter out spam emails, thereby contributing to enhanced email security and a superior user experience.
 
 In conclusion, this project has demonstrated that machine learning, combined with effective feature engineering and model selection, can be a powerful tool in the ongoing battle against email spam. By implementing this spam detection system, we've taken a significant step towards minimizing the impact of spam messages on email users' lives.
 
 Email inboxes are now a safer place, thanks to the successful implementation of our email spam detection system. As we conclude this project, we look forward to continued improvements and innovations in email security.
 
-Let's keep our inboxes spam-free and our communications secure.
+Let's keep our inboxes spam-free and our communications secure. 📫✨
 
----
 
-## Author
+## 👨‍💻 Author
 
 - [Salman Khan](https://www.linkedin.com/in/salmankhan-developer/)
-
